@@ -33,8 +33,6 @@ npm install
 npx expo start
 ```
 
-##### <hr />
-
 ## Connecting to your phone
 
 1. Download the Expo Go app on your phone
@@ -44,7 +42,6 @@ npx expo start
 5. If you still have issues, try running `npm install` again
 6. If you still have issues, try running `npm install -g expo-cli` and then `npm install` again
 
-##### <hr />
 
 ## Known Issues
 1. If you get an error saying something about a weird number, shake your phone and click "Reload"
