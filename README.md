@@ -6,7 +6,6 @@ Sage is a react native application ran in expo go to allow for text to speech of
 
 Ideally, this will eventually also have a speech to text feature that works similar to Siri or Alexa.
 That's all it is right now.
-##### <hr />
 
 ## Installation
 
