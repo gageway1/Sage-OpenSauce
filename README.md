@@ -45,4 +45,3 @@ npx expo start
 
 ## Known Issues
 1. If you get an error saying something about a weird number, shake your phone and click "Reload"
-2. The conversation array doesn't append the most recent message, so you have to refresh the app to see the most recent message, it says `undefined`, so if you see that, just refresh the app
